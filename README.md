@@ -1,4 +1,4 @@
-# vueshop
+# Erke Book Store | Vue Js
 
 ## Project setup
 ```
